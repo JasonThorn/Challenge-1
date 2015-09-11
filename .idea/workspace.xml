@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4521c13e-8876-416b-b421-cbb227f1a75a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rwq" afterPath="$PROJECT_DIR$/.idea/rwq" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/rwq" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Challenge-1.iws" />
@@ -303,13 +303,7 @@
       <option name="project" value="LOCAL" />
       <updated>1441938570190</updated>
     </task>
-    <task id="LOCAL-00003" summary="I make this">
-      <created>1441939326800</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1441939326800</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
